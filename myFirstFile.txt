@@ -4,3 +4,6 @@ hey file has chnaged
 
 =================
 Development is started, now onwrods we will push the changes onto the "gitdev" branch
+
+====================
+Some another developer has pulled first and then coomited the changes
