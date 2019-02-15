@@ -4,3 +4,7 @@ hey file has chnaged
 
 =================
 Development is started, now onwrods we will push the changes onto the "gitdev" branch
+
+
+============================
+Hey this first developer adding chnage for ""sQL Rule " execution logic
